@@ -38,7 +38,7 @@ int main()
       // https://www.raylib.com/examples.html "Waving cubes"
       DrawGrid(10, 5.0f);
       int size = 4;
-      DrawCube((Vector3){0,0,0}, size,size,size, BLACK);
+      DrawCube((Vector3){0,2,0}, size,size,size, BLACK);
 
       EndMode3D();
       DrawFPS(10, 10);
