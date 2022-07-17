@@ -1,6 +1,7 @@
 ## Untitled Game Jam of July 15
 
 Technical: isometric, game-independent engine, raylib
+
 Thematic: world building, dialog, story
 
 ### Build instructions
